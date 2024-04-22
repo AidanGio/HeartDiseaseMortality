@@ -4,10 +4,10 @@
 DEADLINE: Wednesday 11:59 PM
 
 SUBMISSION:
-	- Zip file
-		+ Presentation
-		+ Code, duocumentation
-		+ Dataset
+- Zip file
++ Presentation
++ Code, duocumentation
++ Dataset
 
 PRESENTATION:
 	- First page
