@@ -42,3 +42,10 @@ WHAT?
 - Train at least 2 models for each member in group
 - Can be implemented using either R or Python
 
+
+
+CLASSIFICATION MODELS USED
+- Orlando
+  + KNN
+  + Naive Bayes
+
